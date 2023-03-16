@@ -6,4 +6,3 @@ function InputQuery() {
     )
 }
 
-export default InputQuery;

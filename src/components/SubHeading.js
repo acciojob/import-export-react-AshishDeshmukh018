@@ -6,4 +6,3 @@ function SubHeading() {
     )
 }
 
-export default SubHeading;
